@@ -50,3 +50,15 @@ https://www.geeksforgeeks.org/profile/rakesh240307
 
 This repository is maintained as part of my DSA preparation journey. Solutions may include brute force, better, and optimal approaches wherever applicable.
  Feel free to explore and learn from the solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
