@@ -57,6 +57,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
+| [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,10 +82,12 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Math
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
