@@ -122,6 +122,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3856-trim-trailing-vowels) |
 ## Simulation
 |  |
 | ------- |
