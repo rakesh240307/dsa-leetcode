@@ -55,6 +55,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -111,6 +112,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sorting
@@ -134,6 +136,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
