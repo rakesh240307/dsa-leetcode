@@ -96,6 +96,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
@@ -154,6 +155,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting Sort
 |  |
