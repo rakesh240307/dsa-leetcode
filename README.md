@@ -74,6 +74,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
+| [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
