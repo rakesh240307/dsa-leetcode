@@ -58,6 +58,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0238-product-of-array-except-self) |
@@ -153,6 +154,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
