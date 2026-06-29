@@ -64,6 +64,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [1470-shuffle-the-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1480-running-sum-of-1d-array) |
@@ -158,6 +159,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
