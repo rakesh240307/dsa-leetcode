@@ -88,6 +88,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Union-Find
 |  |
@@ -141,6 +142,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3856-trim-trailing-vowels) |
 ## Simulation
@@ -179,6 +181,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
