@@ -104,6 +104,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
@@ -175,6 +176,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting Sort
