@@ -74,6 +74,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1732-find-the-highest-altitude](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
@@ -93,6 +94,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Union-Find
 |  |
@@ -170,6 +172,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +200,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sliding Window
 |  |
