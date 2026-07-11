@@ -59,6 +59,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0015-3sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
@@ -133,6 +134,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -178,6 +180,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
