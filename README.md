@@ -68,6 +68,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [1470-shuffle-the-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1470-shuffle-the-array) |
@@ -136,6 +137,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
