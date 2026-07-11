@@ -57,6 +57,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
@@ -82,6 +83,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
