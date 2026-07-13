@@ -119,6 +119,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2652-sum-multiples](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2652-sum-multiples) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3870-count-commas-in-range](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3870-count-commas-in-range) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
