@@ -102,6 +102,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
+| [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
@@ -176,6 +177,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
