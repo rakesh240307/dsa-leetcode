@@ -13,6 +13,7 @@ class Solution {
         for(int i = 0; i<freq.length;i++){
             if(freq[i]!=0){
                 tt = false;
+                break;
             }
         }
         return tt;
