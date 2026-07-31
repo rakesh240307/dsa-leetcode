@@ -114,6 +114,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
@@ -197,6 +198,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +248,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
@@ -268,6 +271,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
