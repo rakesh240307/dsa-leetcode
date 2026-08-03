@@ -81,6 +81,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1480-running-sum-of-1d-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -182,6 +183,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 ## Game Theory
@@ -287,6 +289,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
