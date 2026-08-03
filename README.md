@@ -56,6 +56,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -195,6 +196,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0038-count-and-say) |
@@ -293,6 +295,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
