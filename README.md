@@ -111,6 +111,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0242-valid-anagram) |
@@ -138,6 +139,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
@@ -196,6 +198,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
