@@ -74,6 +74,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
@@ -103,6 +104,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
