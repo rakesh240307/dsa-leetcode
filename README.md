@@ -93,6 +93,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
+| [2951-find-the-peaks](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -279,6 +280,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
+| [2951-find-the-peaks](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sliding Window
 |  |
