@@ -223,6 +223,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0242-valid-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0459-repeated-substring-pattern) |
@@ -244,6 +245,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
