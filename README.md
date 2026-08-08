@@ -163,6 +163,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2652-sum-multiples](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2652-sum-multiples) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3870-count-commas-in-range) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -285,6 +286,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [2951-find-the-peaks](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
 | ------- |
