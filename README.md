@@ -104,6 +104,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0013-roman-to-integer](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0069-sqrtx) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
@@ -323,6 +325,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
