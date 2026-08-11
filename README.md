@@ -80,6 +80,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0605-can-place-flowers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
