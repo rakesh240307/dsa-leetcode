@@ -85,6 +85,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -116,6 +117,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
