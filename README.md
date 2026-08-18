@@ -72,6 +72,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -114,6 +115,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0074-search-a-2d-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
@@ -128,6 +130,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +164,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
