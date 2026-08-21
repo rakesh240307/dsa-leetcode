@@ -102,6 +102,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
+| [2643-row-with-maximum-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -171,6 +172,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0074-search-a-2d-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
