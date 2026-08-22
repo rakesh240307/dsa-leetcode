@@ -256,6 +256,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0345-reverse-vowels-of-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -280,6 +281,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0345-reverse-vowels-of-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
