@@ -192,6 +192,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2652-sum-multiples](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2652-sum-multiples) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3870-count-commas-in-range) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
