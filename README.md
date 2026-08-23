@@ -97,6 +97,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1470-shuffle-the-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1732-find-the-highest-altitude](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -132,6 +133,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
