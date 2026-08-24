@@ -271,6 +271,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
@@ -297,6 +298,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0345-reverse-vowels-of-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
@@ -309,6 +311,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 ## Prefix Sum
