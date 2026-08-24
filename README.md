@@ -69,6 +69,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0088-merge-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0162-find-peak-element) |
@@ -310,6 +311,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0055-jump-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
