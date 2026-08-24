@@ -99,6 +99,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
@@ -134,6 +135,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -242,6 +244,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Game Theory
