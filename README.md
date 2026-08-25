@@ -76,6 +76,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0238-product-of-array-except-self](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -126,6 +127,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
@@ -297,6 +299,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
@@ -328,6 +331,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -395,6 +399,14 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0347-top-k-frequent-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
