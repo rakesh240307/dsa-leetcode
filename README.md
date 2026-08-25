@@ -112,6 +112,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -169,6 +170,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
