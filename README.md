@@ -200,6 +200,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0069-sqrtx](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0069-sqrtx) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -223,6 +224,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
+| [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -322,6 +324,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 ## Prefix Sum
@@ -412,6 +415,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
