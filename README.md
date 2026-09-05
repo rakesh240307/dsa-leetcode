@@ -435,6 +435,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
