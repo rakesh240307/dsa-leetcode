@@ -89,6 +89,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
@@ -194,6 +195,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2643-row-with-maximum-ones) |
 ## Math
@@ -304,6 +306,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
