@@ -235,6 +235,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -440,6 +441,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
