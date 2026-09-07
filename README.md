@@ -121,6 +121,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
+| [3833-count-dominant-indices](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -375,6 +376,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2951-find-the-peaks](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3833-count-dominant-indices](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3833-count-dominant-indices) |
 ## Sliding Window
 |  |
 | ------- |
