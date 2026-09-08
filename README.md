@@ -207,6 +207,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0171-excel-sheet-column-number) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
@@ -289,6 +290,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
