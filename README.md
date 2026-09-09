@@ -224,6 +224,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
