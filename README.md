@@ -165,6 +165,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0013-roman-to-integer](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0347-top-k-frequent-elements) |
@@ -323,6 +324,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0344-reverse-string) |
@@ -446,6 +448,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
