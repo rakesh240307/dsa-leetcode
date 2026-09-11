@@ -334,6 +334,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0392-is-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
@@ -451,6 +452,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
