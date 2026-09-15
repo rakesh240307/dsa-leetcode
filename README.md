@@ -220,6 +220,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1344-angle-between-hands-of-a-clock](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1927-sum-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1927-sum-game) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2652-sum-multiples) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -455,6 +456,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0206-reverse-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
