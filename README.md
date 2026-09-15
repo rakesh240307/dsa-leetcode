@@ -456,6 +456,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
