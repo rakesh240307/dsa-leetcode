@@ -122,6 +122,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3467-transform-array-by-parity](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3833-count-dominant-indices) |
@@ -285,6 +286,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
+| [3467-transform-array-by-parity](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
@@ -391,6 +393,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
+| [3467-transform-array-by-parity](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
 |  |
 | ------- |
