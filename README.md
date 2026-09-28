@@ -229,6 +229,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2652-sum-multiples) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
+| [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -294,6 +295,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1927-sum-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1927-sum-game) |
+| [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -321,6 +323,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1927-sum-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3856-trim-trailing-vowels) |
 ## Simulation
@@ -489,6 +492,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0976-largest-perimeter-triangle) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
