@@ -160,6 +160,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -271,6 +272,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0015-3sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
@@ -342,6 +344,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0287-find-the-duplicate-number) |
@@ -474,6 +477,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0206-reverse-linked-list) |
@@ -496,6 +500,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
