@@ -213,6 +213,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0029-divide-two-integers) |
@@ -251,6 +252,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0203-remove-linked-list-elements) |
@@ -482,6 +484,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0083-remove-duplicates-from-sorted-list) |
