@@ -95,6 +95,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0908-smallest-range-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -187,6 +188,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -389,6 +391,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1732-find-the-highest-altitude) |
@@ -430,6 +433,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
