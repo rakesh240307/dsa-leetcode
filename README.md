@@ -82,6 +82,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0347-top-k-frequent-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0540-single-element-in-a-sorted-array) |
@@ -185,6 +186,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0383-ransom-note](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
@@ -290,6 +292,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0349-intersection-of-two-arrays](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
