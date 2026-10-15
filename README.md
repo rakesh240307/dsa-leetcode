@@ -120,6 +120,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -161,6 +162,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +201,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -380,6 +383,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
