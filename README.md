@@ -100,6 +100,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0976-largest-perimeter-triangle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -455,6 +456,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0143-reorder-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -520,6 +522,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0237-delete-node-in-a-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
@@ -550,6 +553,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0334-increasing-triplet-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
