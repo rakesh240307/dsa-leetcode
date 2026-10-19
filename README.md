@@ -85,6 +85,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0605-can-place-flowers) |
@@ -192,6 +193,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0389-find-the-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0930-binary-subarrays-with-sum) |
@@ -457,6 +459,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
@@ -557,6 +560,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
