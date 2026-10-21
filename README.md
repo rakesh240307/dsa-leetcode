@@ -459,6 +459,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -562,6 +563,10 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->forGeeks Solutions
 
 This repository contains my daily Data Structures and Algorithms (DSA) practice solutions from:
