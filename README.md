@@ -251,6 +251,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3870-count-commas-in-range) |
@@ -313,6 +314,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [3467-transform-array-by-parity](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
