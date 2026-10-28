@@ -118,6 +118,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1732-find-the-highest-altitude](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1816-truncate-sentence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -353,6 +354,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
