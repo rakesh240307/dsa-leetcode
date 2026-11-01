@@ -252,6 +252,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2396-strictly-palindromic-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2396-strictly-palindromic-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2652-sum-multiples) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -267,6 +268,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -538,6 +540,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0328-odd-even-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
