@@ -84,6 +84,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0540-single-element-in-a-sorted-array) |
@@ -239,6 +240,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0171-excel-sheet-column-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0171-excel-sheet-column-number) |
 | [0390-elimination-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0877-stone-game) |
@@ -309,6 +311,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0881-boats-to-save-people) |
