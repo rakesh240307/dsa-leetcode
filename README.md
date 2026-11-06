@@ -136,6 +136,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [3115-maximum-prime-difference](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3115-maximum-prime-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3467-transform-array-by-parity) |
+| [3668-restore-finishing-order](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -214,6 +215,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [2540-minimum-common-value](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3668-restore-finishing-order](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Union-Find
