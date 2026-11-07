@@ -376,6 +376,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | ------- |
 | [0867-transpose-matrix](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0867-transpose-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
@@ -550,6 +551,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [0328-odd-even-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1019-next-greater-node-in-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
 |  |
