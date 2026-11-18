@@ -368,6 +368,7 @@ This repository is maintained as part of my DSA preparation journey. Solutions m
 | [1927-sum-game](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3227-vowels-game-in-a-string](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3227-vowels-game-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/rakesh240307/dsa---leetcode-and-geeksforgeeks/tree/master/3856-trim-trailing-vowels) |
